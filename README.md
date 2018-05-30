@@ -1,30 +1,23 @@
-# roll-template
+# roto-cli
 
-## install
+### Install
 
-``` bash
-# install dependencies
-yarn global add roll-cli
-
+```bash
+yarn global add roto-cli
 ```
 
-## Usage
+### ADD
 
-``` bash
-# add template
-roll-cli add
-
+```bash
+roto-cli add
 ```
 
+### NEW 
+
 ``` bash
-# new template
-roll-cli new 
+roto-cli new 
 ```
 or
 ``` bash
-# new template
-roll-cli new template-name
+roto-cli new template-name
 ```
-
-
-  
